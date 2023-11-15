@@ -92,3 +92,5 @@ function newCard() {
         newEl.textContent = 'GAME OVER'
     }
 }
+
+console.log('Samir')
